@@ -1,0 +1,15 @@
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/bin/Debug/net5.0/TestMod.deps.json
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/bin/Debug/net5.0/TestMod.dll
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/bin/Debug/net5.0/ref/TestMod.dll
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/bin/Debug/net5.0/TestMod.pdb
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/bin/Debug/net5.0/Mod.Base.dll
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/bin/Debug/net5.0/Mod.Base.pdb
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/obj/Debug/net5.0/TestMod.csproj.AssemblyReference.cache
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/obj/Debug/net5.0/TestMod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/obj/Debug/net5.0/TestMod.AssemblyInfoInputs.cache
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/obj/Debug/net5.0/TestMod.AssemblyInfo.cs
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/obj/Debug/net5.0/TestMod.csproj.CoreCompileInputs.cache
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/obj/Debug/net5.0/TestMod.csproj.CopyComplete
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/obj/Debug/net5.0/TestMod.dll
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/obj/Debug/net5.0/ref/TestMod.dll
+/Users/sato-katsumi/RiderProjects/TestMod/TestMod/obj/Debug/net5.0/TestMod.pdb
